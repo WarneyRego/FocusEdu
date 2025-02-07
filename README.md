@@ -16,7 +16,7 @@ O FocusEdu é um gerador de planos de estudo personalizados que utiliza IA para 
 
 1️⃣ Clone o repositório e acesse a pasta do projeto:
 
-git clone https://github.com/seu-usuario/focusedu.git
+git clone https://github.com/WarneyRego/focusedu.git
 cd focusedu
 
 2️⃣ Instale as dependências:
